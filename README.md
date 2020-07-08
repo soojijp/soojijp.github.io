@@ -20,4 +20,3 @@ Special Thanks to- javanie.studio@gmail.com
 
 
 <blockquote class="embedly-card" data-card-key="bb136f3b86be4976b6635a2eb2f9510c" data-card-type="article-full"><h4><a href="https://jojo0h.github.io/">HopeForRats</a></h4><p>쥐들에게 희망을: 랜덤 액세스전 Vol. 7 오주영 《주사위 게임》</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
